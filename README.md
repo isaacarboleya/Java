@@ -8,6 +8,8 @@ These are for demonstration purposes only. There are many implementations of sor
 
 Esto es una modificacion en el readMe para aprender a utilizar Git Remoto
 
+Quiero hacer más cambios para intentar subir del local al remoto.
+
 
 ### Bubble
 ![alt text][bubble-image]
