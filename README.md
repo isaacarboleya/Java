@@ -6,6 +6,8 @@ These are for demonstration purposes only. There are many implementations of sor
 
 ## Sort Algorithms
 
+Esto es una modificacion en el readMe para aprender a utilizar Git Remoto
+
 
 ### Bubble
 ![alt text][bubble-image]
